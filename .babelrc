@@ -1,0 +1,13 @@
+//import easy to link
+{
+    "plugins": [
+        [
+            "module-resolver",
+            {
+                "alias": {
+                    "#": "./src"
+                }
+            }
+        ]
+    ]
+}
